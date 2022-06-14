@@ -1,0 +1,33 @@
+/*********************************************
+***************** CSS GENERAL ****************
+*********************************************/
+
+*{
+    font-family: "Source Sans Pro";
+}
+
+
+body{
+    background-image: url(img/background.jpg);
+    height: 1500px;
+    background-repeat: no-repeat;
+}
+
+.box{
+    
+    text-align: center;
+    margin-top: 300px;
+    
+}
+
+.box button{
+
+    margin-top: 10px;
+    
+}
+
+.jokes{
+
+    margin-top: 15px;
+    list-style: none;
+}
